@@ -2,7 +2,10 @@ package com.chillpavz.seamlessoresmatrix;
 
 import com.chillpavz.seamlessoresmatrix.content.HostStone;
 
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 /**
@@ -28,31 +31,28 @@ public final class MatrixConfig {
     /** Host stones whose variants are switched off, by {@link HostStone#name()}. */
     private static volatile Set<String> disabledHosts = Set.of();
 
-    /** One field per setting, assigned by name so two neighbours cannot be swapped silently. */
-    public static final class Values {
-        public boolean blockusLimestone = true;
-        public boolean blockusMarble = true;
-        public boolean blockusBluestone = true;
-        public boolean blockusViridite = true;
-        public boolean wilderwildGabbro = true;
-    }
-
-    public static void apply(Values values) {
+    /**
+     * Takes one switch per host stone, keyed by {@link HostStone#name()}. The loader's config class is
+     * generated from the host table, so every host has one; a host without a switch stays on and the
+     * log says so, which means the generator was not re-run after the table changed.
+     */
+    public static void apply(Map<String, Boolean> switches) {
         final Set<String> off = new HashSet<>();
-        disable(off, HostStone.BLOCKUS_LIMESTONE, values.blockusLimestone);
-        disable(off, HostStone.BLOCKUS_MARBLE, values.blockusMarble);
-        disable(off, HostStone.BLOCKUS_BLUESTONE, values.blockusBluestone);
-        disable(off, HostStone.BLOCKUS_VIRIDITE, values.blockusViridite);
-        disable(off, HostStone.WILDERWILD_GABBRO, values.wilderwildGabbro);
+        final List<String> missing = new ArrayList<>();
+        for (HostStone host : HostStone.ALL) {
+            final Boolean enabled = switches.get(host.name());
+            if (enabled == null) {
+                missing.add(host.name());
+            } else if (!enabled) {
+                off.add(host.name());
+            }
+        }
         disabledHosts = Set.copyOf(off);
+        if (!missing.isEmpty()) {
+            Constants.LOG.warn("Config: no switch for {}, generated as normal", missing);
+        }
         if (!off.isEmpty()) {
             Constants.LOG.info("Config: generation switched off for {}", off);
-        }
-    }
-
-    private static void disable(Set<String> off, HostStone host, boolean enabled) {
-        if (!enabled) {
-            off.add(host.name());
         }
     }
 

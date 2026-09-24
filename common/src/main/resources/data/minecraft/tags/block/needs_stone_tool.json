@@ -45,6 +45,194 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_asurine_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_iron_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_copper_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_lapis_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:wilderwild_gabbro_iron_ore",
       "required": false
     },

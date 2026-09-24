@@ -17,6 +17,70 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_asurine_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_lapis_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:wilderwild_gabbro_lapis_ore",
       "required": false
     }

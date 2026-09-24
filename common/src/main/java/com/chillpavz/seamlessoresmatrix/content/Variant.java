@@ -14,8 +14,8 @@ public record Variant(HostStone host, OreKind ore) {
         return Identifier.fromNamespaceAndPath(Constants.MOD_ID, path());
     }
 
-    /** The vanilla ore whose strength and loot this variant takes. */
+    /** The vanilla block whose strength this variant takes. */
     public Identifier strengthSource() {
-        return host.strength() == HostStone.Strength.DEEPSLATE ? ore.deepslateOre() : ore.stoneOre();
+        return ore.strengthSource(host.strength());
     }
 }

@@ -3,10 +3,18 @@ plugins {
     id 'net.neoforged.moddev'
 }
 
+// The worldgen API changed shape at 26.3 (ore features lost ConfiguredFeature, loot tables became a
+// registry with a new silk touch condition). The code and data that differ live in one folder per era:
+// src/era261 for 26.1.x and 26.2, src/era263 for 26.3. The band file picks one; src/main is shared.
+sourceSets.main {
+    java.srcDir("src/era${era}/java")
+    resources.srcDir("src/era${era}/resources")
+}
+
 neoForge {
     neoFormVersion = neo_form_version
     // Automatically enable AccessTransformers if the file exists
-    def at = file('src/main/resources/META-INF/accesstransformer.cfg')
+    def at = file("src/era${era}/resources/META-INF/accesstransformer.cfg")
     if (at.exists()) {
         accessTransformers.from(at.absolutePath)
     }
@@ -35,8 +43,9 @@ configurations {
 }
 
 artifacts {
-    commonJava sourceSets.main.java.sourceDirectories.singleFile
-    commonResources sourceSets.main.resources.sourceDirectories.singleFile
+    // Every source folder, the era one included: the loaders compile common's sources themselves.
+    sourceSets.main.java.srcDirs.each { commonJava it }
+    sourceSets.main.resources.srcDirs.each { commonResources it }
 }
 
 // Implement mcgradleconventions loader attribute

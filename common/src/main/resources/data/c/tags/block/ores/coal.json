@@ -13,6 +13,66 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_asurine_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_coal_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:wilderwild_gabbro_coal_ore",
       "required": false
     }

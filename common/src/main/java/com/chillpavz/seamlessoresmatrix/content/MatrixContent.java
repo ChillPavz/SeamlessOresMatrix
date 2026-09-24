@@ -24,8 +24,8 @@ import java.util.function.BiConsumer;
 /**
  * The variants, and the block and item factories built from them.
  *
- * <p><b>The set is derived from the installed mods, never from config.</b> A variant exists when its
- * stone's mod is loaded. Client and server compute the same list from the same mod set, so they
+ * <p><b>The set is derived from the installed mods, never from config.</b> A variant exists when the
+ * mod that places its stone is loaded, and, for a modded ore, the ore's mod too. Client and server compute the same list from the same mod set, so they
  * cannot disagree about which blocks exist. Anything a player may switch off belongs to worldgen.
  */
 public final class MatrixContent {
@@ -47,7 +47,10 @@ public final class MatrixContent {
                 continue;
             }
             for (OreKind ore : host.ores()) {
-                variants.add(new Variant(host, ore));
+                // Zinc in limestone needs Create as well as Blockus.
+                if (ore.isLoaded()) {
+                    variants.add(new Variant(host, ore));
+                }
             }
         }
         return List.copyOf(variants);
@@ -118,9 +121,10 @@ public final class MatrixContent {
     }
 
     private static Block createBlock(Variant variant) {
-        // The vanilla ore this stands in for is safe to resolve here (vanilla registers before any
-        // mod), and ofLegacyCopy carries its hardness, blast resistance and tool requirement, so
-        // mining cannot drift from the ore it replaces. Only the map colour follows the stone.
+        // The strength source is always vanilla, so it is safe to resolve here (vanilla registers before
+        // any mod), and ofLegacyCopy carries its hardness, blast resistance and tool requirement, so
+        // mining cannot drift from the ore it replaces. Zinc copies gold ore, as Create's own zinc ore
+        // does. Only the map colour follows the stone.
         final BlockBehaviour.Properties properties = BlockBehaviour.Properties
                 .ofLegacyCopy(BuiltInRegistries.BLOCK.getValue(variant.strengthSource()))
                 .mapColor(variant.host().mapColor());
