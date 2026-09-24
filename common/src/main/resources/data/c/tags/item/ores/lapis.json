@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_lapis_ore",
+      "required": false
+    }
+  ]
+}

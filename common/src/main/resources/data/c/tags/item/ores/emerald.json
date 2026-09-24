@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_emerald_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_emerald_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_emerald_ore",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_redstone_ore",
+      "required": false
+    }
+  ]
+}

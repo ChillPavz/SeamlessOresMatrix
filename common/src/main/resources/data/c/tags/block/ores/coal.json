@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_coal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_coal_ore",
+      "required": false
+    }
+  ]
+}
