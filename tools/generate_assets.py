@@ -238,8 +238,57 @@ def main():
         for ore, values in conv.items():
             write_json(os.path.join(data, "c", "tags", kind, "ores", f"{ore}.json"), {"values": values})
 
+    write_readme(hosts, count, sorted(used_overlays))
+
     per_host = ", ".join(f"{mod}:{path} {len(kinds)}" for mod, path, _s, kinds in hosts)
     print(f"{count} variants ({per_host}); {len(used_overlays)} overlays")
+
+
+def write_readme(hosts, count, overlays):
+    """Rewrites the generated sections of README.md in place, leaving the prose alone.
+
+    The block list and the overlay list come from the same host table the blocks register from, so
+    the README cannot claim a block the jar does not have. A missing marker is an error, not a skip.
+    """
+    path = os.path.join(ROOT, "README.md")
+    text = open(path, encoding="utf-8").read()
+
+    lines = [f"**{count} blocks** in the `{MOD_ID}` namespace. Each exists only when its stone's mod "
+             f"is installed.", ""]
+    for mod in dict.fromkeys(m for m, _p, _s, _k in hosts):
+        stones = [(p, k) for m, p, _s, k in hosts if m == mod]
+        lines.append(f"**{MOD_NAMES[mod]}, requires `{mod}`**")
+        lines.append("")
+        lines.append("| | " + " | ".join(p for p, _k in stones) + " |")
+        lines.append("|---" * (len(stones) + 1) + "|")
+        for ore in ORES:
+            if not any(ore in k for _p, k in stones):
+                continue
+            cells = [f"`{mod}_{p}_{ore}_ore`" if ore in k else "" for p, k in stones]
+            lines.append(f"| {DISPLAY.get(ore, title(ore))} | " + " | ".join(cells) + " |")
+        lines.append("")
+    text = replace_section(text, "block-list", "\n".join(lines).rstrip())
+
+    listed = " ".join(f"`{o}`" for o in overlays)
+    fence = "```"
+    text = replace_section(text, "overlay-list", (
+        f"Every variant of one ore shares a single overlay texture, so covering all {count} blocks "
+        f"takes **{len(overlays)} PNG files**:\n\n{fence}\nassets/{MOD_ID}/textures/block/<ore>_overlay.png\n"
+        f"{fence}\n\nwhere `<ore>` is one of: {listed}"))
+
+    if any(ch in text for ch in (chr(0x2013), chr(0x2014))):
+        sys.exit("dash in README.md")
+    with open(path, "w", encoding="utf-8", newline="\n") as handle:
+        handle.write(text)
+
+
+def replace_section(text, name, body):
+    begin, end = f"<!-- BEGIN GENERATED {name} -->", f"<!-- END GENERATED {name} -->"
+    if begin not in text or end not in text:
+        sys.exit(f"README.md has no {name} markers")
+    head, rest = text.split(begin, 1)
+    _old, tail = rest.split(end, 1)
+    return f"{head}{begin}\n{body}\n{end}{tail}"
 
 
 if __name__ == "__main__":
