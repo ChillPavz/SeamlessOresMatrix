@@ -1,0 +1,68 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_runite_ore",
+      "required": false
+    }
+  ]
+}

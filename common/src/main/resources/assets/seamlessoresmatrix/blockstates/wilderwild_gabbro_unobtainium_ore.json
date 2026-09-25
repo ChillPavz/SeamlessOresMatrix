@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_unobtainium_ore"
+      },
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_unobtainium_ore_mirrored"
+      },
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_unobtainium_ore",
+        "y": 180
+      },
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_unobtainium_ore_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

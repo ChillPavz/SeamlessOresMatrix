@@ -1,0 +1,68 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_orichalcum_ore",
+      "required": false
+    }
+  ]
+}

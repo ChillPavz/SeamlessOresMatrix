@@ -1,0 +1,172 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_redstone_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_redstone_ore",
+      "required": false
+    }
+  ]
+}

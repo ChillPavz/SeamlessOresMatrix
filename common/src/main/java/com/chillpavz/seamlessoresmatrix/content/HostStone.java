@@ -38,10 +38,12 @@ import static com.chillpavz.seamlessoresmatrix.content.OreKind.ZINC;
  * <p>{@code ores} is the measured pair list, not a taste call: every ore that reaches this stone's
  * height band in its biome at a rate above the floor. A missing pair is a visible bug, because the
  * stone swallows that ore regardless. A variant of a modded ore (zinc) also needs that ore's mod, so
- * listing zinc costs nothing where Create is absent.
+ * listing zinc costs nothing where Create is absent. Written here: the vanilla ores and zinc. Every
+ * other ore mod's pairs are measured by the pair model and generated into {@link ModdedPairs}; a host
+ * takes both.
  *
  * <p>tools/generate_assets.py PARSES this table, and so does Seamless Glowing Ores' pack generator:
- * keep each host one constructor expression whose first line holds the namespace AND the path, with the ores as {@code EnumSet.of(...)} and an optional {@code .placedBy("mod")}.
+ * keep each host one constructor expression whose first line holds the namespace AND the path, with the ores as {@code EnumSet.of(...)} (or {@code EnumSet.noneOf(OreKind.class)}) and an optional {@code .placedBy("mod")}.
  */
 public final class HostStone {
 
@@ -123,6 +125,13 @@ public final class HostStone {
             Strength.STONE, MapColor.COLOR_ORANGE,
             EnumSet.of(COAL, IRON, COPPER, GOLD, REDSTONE, LAPIS, DIAMOND));
 
+    // The nether rifts (TerraBlender region). No vanilla ore reaches it: vanilla's nether ores run a
+    // step later. It swallows Mythic Upgrades' own ruby ore, which its biome places before it.
+    // Hardness 1.5 and map colour read from MythicBlocks.
+    public static final HostStone MYTHICUPGRADES_SAPPHIRE_SCHIST = new HostStone("mythicupgrades", "sapphire_schist",
+            Strength.STONE, MapColor.LAPIS,
+            EnumSet.noneOf(OreKind.class));
+
     // --- Promenade: Fabric, 26.1.x and 26.2. Both in stone_ore_replaceables, so later ore lands in them.
     public static final HostStone PROMENADE_ASPHALT = new HostStone("promenade", "asphalt",
             Strength.STONE, MapColor.DEEPSLATE,
@@ -145,7 +154,7 @@ public final class HostStone {
             CREATE_VERIDIUM, MINECRAFT_CALCITE, MINECRAFT_DRIPSTONE_BLOCK, MINECRAFT_SMOOTH_BASALT,
             FORBIDDEN_ARCANUS_DARKSTONE,
             MYTHICUPGRADES_AQUAMARINE_SCHIST, MYTHICUPGRADES_CITRINE_SCHIST, MYTHICUPGRADES_PERIDOT_SCHIST,
-            MYTHICUPGRADES_TOPAZ_SCHIST,
+            MYTHICUPGRADES_TOPAZ_SCHIST, MYTHICUPGRADES_SAPPHIRE_SCHIST,
             PROMENADE_ASPHALT, PROMENADE_BLUNITE,
             WILDERWILD_GABBRO);
 
@@ -170,7 +179,10 @@ public final class HostStone {
         this.mapColor = mapColor;
         // An EnumSet, not Set.copyOf: that one's iteration order changes from run to run, and this
         // order is the registration and creative tab order.
-        this.ores = Collections.unmodifiableSet(EnumSet.copyOf(ores));
+        final EnumSet<OreKind> all = EnumSet.noneOf(OreKind.class);
+        all.addAll(ores);
+        all.addAll(ModdedPairs.of(namespace + ":" + path));
+        this.ores = Collections.unmodifiableSet(all);
     }
 
     /** The same stone, present only while {@code modId} is installed: it is that mod that places it. */

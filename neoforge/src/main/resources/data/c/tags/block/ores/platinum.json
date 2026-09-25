@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_platinum_ore",
+      "required": false
+    }
+  ]
+}

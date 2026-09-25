@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_quadrillum_ore",
+      "required": false
+    }
+  ]
+}

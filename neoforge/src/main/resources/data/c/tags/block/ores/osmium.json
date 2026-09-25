@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_osmium_ore",
+      "required": false
+    }
+  ]
+}

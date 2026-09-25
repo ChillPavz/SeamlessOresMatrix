@@ -1,0 +1,68 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_galena_ore",
+      "required": false
+    }
+  ]
+}

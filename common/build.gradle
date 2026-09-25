@@ -9,6 +9,10 @@ plugins {
 sourceSets.main {
     java.srcDir("src/era${era}/java")
     resources.srcDir("src/era${era}/resources")
+    // Data one Minecraft version needs apart from the rest of its era: an ore mod whose loot changed
+    // between its 26.1.2 and 26.2 builds (Tech Reborn's bauxite and galena). Written by the generator,
+    // and never the same path as a file in the era folder.
+    resources.srcDir("src/mc${minecraft_version}/resources")
 }
 
 neoForge {

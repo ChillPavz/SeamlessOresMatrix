@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_manganese_ore",
+      "required": false
+    }
+  ]
+}

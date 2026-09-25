@@ -37,6 +37,134 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:blockus_limestone_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_starrite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:blockus_marble_coal_ore",
       "required": false
     },
@@ -70,6 +198,130 @@
     },
     {
       "id": "seamlessoresmatrix:blockus_marble_zinc_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_uranium_ore",
       "required": false
     },
     {
@@ -109,6 +361,82 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:blockus_bluestone_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:blockus_viridite_iron_ore",
       "required": false
     },
@@ -130,6 +458,82 @@
     },
     {
       "id": "seamlessoresmatrix:blockus_viridite_zinc_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_techreborn_uranium_ore",
       "required": false
     },
     {
@@ -169,6 +573,134 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_asurine_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:create_crimsite_coal_ore",
       "required": false
     },
@@ -202,6 +734,134 @@
     },
     {
       "id": "seamlessoresmatrix:create_crimsite_zinc_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_uranium_ore",
       "required": false
     },
     {
@@ -241,6 +901,134 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_limestone_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:create_ochrum_coal_ore",
       "required": false
     },
@@ -277,11 +1065,175 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_ochrum_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:create_scorchia_nether_gold_ore",
       "required": false
     },
     {
       "id": "seamlessoresmatrix:create_scorchia_quartz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_midas_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_nether_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_palladium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_stormyx_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_cinnabar_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_pyrite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scorchia_sphalerite_ore",
       "required": false
     },
     {
@@ -329,6 +1281,170 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_scoria_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_midas_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_nether_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_palladium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_stormyx_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_cinnabar_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_pyrite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_sphalerite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:create_veridium_coal_ore",
       "required": false
     },
@@ -362,6 +1478,134 @@
     },
     {
       "id": "seamlessoresmatrix:create_veridium_zinc_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_uranium_ore",
       "required": false
     },
     {
@@ -401,6 +1645,134 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:minecraft_calcite_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:minecraft_dripstone_block_coal_ore",
       "required": false
     },
@@ -434,6 +1806,134 @@
     },
     {
       "id": "seamlessoresmatrix:minecraft_dripstone_block_zinc_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_uranium_ore",
       "required": false
     },
     {
@@ -481,6 +1981,170 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_midas_gold_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_nether_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_palladium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_stormyx_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_cinnabar_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_pyrite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_sphalerite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_iron_ore",
       "required": false
     },
@@ -498,6 +2162,82 @@
     },
     {
       "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_diamond_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_prosperity_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_occultism_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_uraninite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_uraninite_dense_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_uraninite_poor_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_bort_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_alexandrite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_silents_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_chaos_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_garnet_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_heliodor_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_iolite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_opal_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_silents_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_silents_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_silents_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_silents_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_silents_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:forbidden_arcanus_darkstone_turquoise_ore",
       "required": false
     },
     {
@@ -529,6 +2269,10 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:mythicupgrades_aquamarine_schist_necoium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_coal_ore",
       "required": false
     },
@@ -554,6 +2298,10 @@
     },
     {
       "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_diamond_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_citrine_schist_necoium_ore",
       "required": false
     },
     {
@@ -585,6 +2333,14 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_peridot_schist_necoium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_coal_ore",
       "required": false
     },
@@ -610,6 +2366,18 @@
     },
     {
       "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_diamond_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_topaz_schist_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:mythicupgrades_sapphire_schist_ruby_ore",
       "required": false
     },
     {
@@ -649,6 +2417,134 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:promenade_asphalt_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_starrite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:promenade_blunite_coal_ore",
       "required": false
     },
@@ -685,6 +2581,134 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:promenade_blunite_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_starrite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_aquamarine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_citrine_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_peridot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_topaz_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_uranium_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:wilderwild_gabbro_coal_ore",
       "required": false
     },
@@ -714,6 +2738,122 @@
     },
     {
       "id": "seamlessoresmatrix:wilderwild_gabbro_zinc_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_adamantite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_aquarium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_banglum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_carmot_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_kyber_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_manganese_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_morkite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_mythril_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_orichalcum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_osmium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_platinum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_prometheum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_quadrillum_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_runite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_necoium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_occultism_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_bauxite_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_galena_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_lead_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_ruby_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_sapphire_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_silver_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_uranium_ore",
       "required": false
     }
   ]

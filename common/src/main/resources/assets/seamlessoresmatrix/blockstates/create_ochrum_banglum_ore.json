@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "seamlessoresmatrix:block/create_ochrum_banglum_ore_0"
+      },
+      {
+        "model": "seamlessoresmatrix:block/create_ochrum_banglum_ore_1"
+      },
+      {
+        "model": "seamlessoresmatrix:block/create_ochrum_banglum_ore_2"
+      },
+      {
+        "model": "seamlessoresmatrix:block/create_ochrum_banglum_ore_3"
+      }
+    ]
+  }
+}

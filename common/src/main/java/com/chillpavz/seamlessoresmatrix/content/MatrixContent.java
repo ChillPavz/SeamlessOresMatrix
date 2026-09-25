@@ -47,7 +47,7 @@ public final class MatrixContent {
                 continue;
             }
             for (OreKind ore : host.ores()) {
-                // Zinc in limestone needs Create as well as Blockus.
+                // Zinc in limestone needs Create as well as Blockus; tin in it Tech Reborn.
                 if (ore.isLoaded()) {
                     variants.add(new Variant(host, ore));
                 }
@@ -124,13 +124,21 @@ public final class MatrixContent {
         // The strength source is always vanilla, so it is safe to resolve here (vanilla registers before
         // any mod), and ofLegacyCopy carries its hardness, blast resistance and tool requirement, so
         // mining cannot drift from the ore it replaces. Zinc copies gold ore, as Create's own zinc ore
-        // does. Only the map colour follows the stone.
+        // does. A modded ore's own block may not be registered yet, so it is never read: a modded ore
+        // takes the vanilla ore convention for its tier, which a stone or deepslate iron ore carries,
+        // unless its mod sets its own strength, which Seamless Ores read from that mod's jar. Only the
+        // map colour follows the stone.
+        final HostStone.Strength tier = variant.host().strength();
         final BlockBehaviour.Properties properties = BlockBehaviour.Properties
                 .ofLegacyCopy(BuiltInRegistries.BLOCK.getValue(variant.strengthSource()))
                 .mapColor(variant.host().mapColor());
+        final float[] own = variant.ore().ownStrength(tier);
+        if (own != null) {
+            properties.strength(own[0], own[1]);
+        }
         properties.setId(ResourceKey.create(Registries.BLOCK, variant.id()));
         return variant.ore().redstoneLike()
                 ? new HostedRedStoneOreBlock(variant.host(), properties)
-                : new HostedOreBlock(variant.host(), variant.ore().xp(), properties);
+                : new HostedOreBlock(variant.host(), variant.ore().xp(tier), properties);
     }
 }

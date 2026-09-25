@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "seamlessoresmatrix:block/create_asurine_aquarium_ore_0"
+      },
+      {
+        "model": "seamlessoresmatrix:block/create_asurine_aquarium_ore_1"
+      },
+      {
+        "model": "seamlessoresmatrix:block/create_asurine_aquarium_ore_2"
+      },
+      {
+        "model": "seamlessoresmatrix:block/create_asurine_aquarium_ore_3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "values": [
+    {
+      "id": "seamlessoresmatrix:blockus_bluestone_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_viridite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_iridium_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_iridium_ore",
+      "required": false
+    }
+  ]
+}

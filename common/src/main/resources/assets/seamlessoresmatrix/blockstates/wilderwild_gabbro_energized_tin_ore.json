@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_energized_tin_ore"
+      },
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_energized_tin_ore_mirrored"
+      },
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_energized_tin_ore",
+        "y": 180
+      },
+      {
+        "model": "seamlessoresmatrix:block/wilderwild_gabbro_energized_tin_ore_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -13,6 +13,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:blockus_limestone_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_limestone_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:blockus_marble_iron_ore",
       "required": false
     },
@@ -22,6 +34,18 @@
     },
     {
       "id": "seamlessoresmatrix:blockus_marble_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:blockus_marble_techreborn_tin_ore",
       "required": false
     },
     {
@@ -57,6 +81,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_asurine_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_asurine_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:create_crimsite_iron_ore",
       "required": false
     },
@@ -66,6 +102,18 @@
     },
     {
       "id": "seamlessoresmatrix:create_crimsite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_crimsite_techreborn_tin_ore",
       "required": false
     },
     {
@@ -81,6 +129,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_limestone_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_limestone_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:create_ochrum_iron_ore",
       "required": false
     },
@@ -90,6 +150,18 @@
     },
     {
       "id": "seamlessoresmatrix:create_ochrum_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_ochrum_techreborn_tin_ore",
       "required": false
     },
     {
@@ -105,6 +177,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:create_scoria_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_scoria_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:create_veridium_iron_ore",
       "required": false
     },
@@ -114,6 +198,18 @@
     },
     {
       "id": "seamlessoresmatrix:create_veridium_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:create_veridium_techreborn_tin_ore",
       "required": false
     },
     {
@@ -129,6 +225,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:minecraft_calcite_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_calcite_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:minecraft_dripstone_block_iron_ore",
       "required": false
     },
@@ -141,6 +249,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_dripstone_block_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:minecraft_smooth_basalt_iron_ore",
       "required": false
     },
@@ -150,6 +270,18 @@
     },
     {
       "id": "seamlessoresmatrix:minecraft_smooth_basalt_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:minecraft_smooth_basalt_techreborn_tin_ore",
       "required": false
     },
     {
@@ -221,6 +353,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:promenade_asphalt_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_asphalt_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:promenade_blunite_iron_ore",
       "required": false
     },
@@ -233,6 +377,18 @@
       "required": false
     },
     {
+      "id": "seamlessoresmatrix:promenade_blunite_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:promenade_blunite_techreborn_tin_ore",
+      "required": false
+    },
+    {
       "id": "seamlessoresmatrix:wilderwild_gabbro_iron_ore",
       "required": false
     },
@@ -242,6 +398,18 @@
     },
     {
       "id": "seamlessoresmatrix:wilderwild_gabbro_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_energized_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_tin_ore",
+      "required": false
+    },
+    {
+      "id": "seamlessoresmatrix:wilderwild_gabbro_techreborn_tin_ore",
       "required": false
     }
   ]

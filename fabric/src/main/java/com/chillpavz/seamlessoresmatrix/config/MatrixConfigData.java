@@ -114,6 +114,10 @@ public class MatrixConfigData implements ConfigData {
     @ConfigEntry.Gui.Tooltip
     public boolean mythicupgradesTopazSchist = true;
 
+    @ConfigEntry.Category("mythicupgrades")
+    @ConfigEntry.Gui.Tooltip
+    public boolean mythicupgradesSapphireSchist = true;
+
     // --- Promenade -----------------------------------------------------------------------------------
 
     @ConfigEntry.Category("promenade")
@@ -164,6 +168,7 @@ public class MatrixConfigData implements ConfigData {
         values.put("mythicupgrades_citrine_schist", mythicupgradesCitrineSchist);
         values.put("mythicupgrades_peridot_schist", mythicupgradesPeridotSchist);
         values.put("mythicupgrades_topaz_schist", mythicupgradesTopazSchist);
+        values.put("mythicupgrades_sapphire_schist", mythicupgradesSapphireSchist);
         values.put("promenade_asphalt", promenadeAsphalt);
         values.put("promenade_blunite", promenadeBlunite);
         values.put("wilderwild_gabbro", wilderwildGabbro);
