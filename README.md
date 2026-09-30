@@ -9,7 +9,7 @@ surroundings.
 
 | | |
 |---|---|
-| Minecraft | 26.1.x, 26.2, 26.3 (one jar per version) |
+| Minecraft | 26.1.x, 26.2, 26.3 (one jar for all of them) |
 | Loaders | Fabric, NeoForge |
 | Requires | Cloth Config. On Fabric, Mod Menu is optional and adds the config button |
 | Licence | PolyForm Shield 1.0.0, see `LICENSE` |
@@ -183,7 +183,7 @@ Stones: Darkstone `forbidden_arcanus_darkstone`
 | Silent's Topaz | `silents_topaz` | Silent's Gems `silentgems` | Darkstone |
 | Turquoise | `turquoise` | Silent's Gems `silentgems` | Darkstone |
 
-**Mythic Upgrades, requires `mythicupgrades`** (Fabric and NeoForge, 26.2)
+**Mythic Upgrades, requires `mythicupgrades`** (Fabric and NeoForge, 26.2 and 26.3)
 
 Stones: Aquamarine Schist `mythicupgrades_aquamarine_schist`, Citrine Schist `mythicupgrades_citrine_schist`, Peridot Schist `mythicupgrades_peridot_schist`, Topaz Schist `mythicupgrades_topaz_schist`, Sapphire Schist `mythicupgrades_sapphire_schist`
 
@@ -322,17 +322,20 @@ its own mod, so you do not supply it.
 
 ## Building
 
-Requires JDK 25. One source tree builds every Minecraft version; pick it with `-Pmc`:
+Requires JDK 25 and Python 3. One source tree builds every Minecraft version, and one jar per loader
+runs on all of them:
 
 ```
 ./gradlew build -Pmc=26.3
-./gradlew build -Pmc=26.2
 ./gradlew build -Pmc=26.1.x
+python tools/merge_bands.py
 ```
 
-`26.3` is the default. Jars land in `fabric/build/libs` and `neoforge/build/libs`, named after the
-Minecraft version (the 26.1.x jar is built against 26.1.2). Take the plain jar, not the `-sources` or
-`-javadoc` one.
+The merge leaves `seamlessoresmatrix-<loader>-26.x-<version>.jar` in `fabric/build/libs` and
+`neoforge/build/libs`. It is the 26.1.x build, compiled against 26.1.2, plus the one worldgen class
+that has to be compiled against 26.3; the mod picks the matching one when the game starts. The merge
+stops if the two builds differ anywhere else. `-Pmc=26.2` builds a jar for 26.2 alone, which is only a
+compile check. `26.3` is the default band.
 
 Blockstates, models, lang, loot tables, tags and this README's block list are generated from the
 host table in `common/.../content/HostStone.java` and the measured pairs in `tools/modded_pairs.json`:
@@ -351,9 +354,11 @@ jar, listed in `MOD_JARS` at the top of the script.
 |---|---|
 | `versions/` | One properties file per Minecraft version: Minecraft, loader, Cloth and Mod Menu versions |
 | `common/src/main` | Everything shared: the host table, content registration, both worldgen injectors, config holder |
-| `common/src/era263`, `common/src/era261` | What changed shape at 26.3: how ore features are read and rebuilt, the access widener and transformer, loot tables. `era261` serves 26.1.x and 26.2 |
+| `common/src/era263`, `common/src/era261` | What changed shape at 26.3: how ore features are read and rebuilt (`Era263`, `Era261`), and the access widener and transformer. `era261` serves 26.1.x and 26.2 |
+| `common/src/main/resources/era26*`, `mc26.*` | Loot tables per Minecraft version, as pack overlays that `pack.mcmeta` turns on by data format |
 | `fabric/`, `neoforge/` | Loader entry points, the Cloth Config data class and screen |
 | `tools/generate_assets.py` | Generates assets, data and the block list above |
+| `tools/merge_bands.py` | Joins the 26.1.x and 26.3 builds into one jar per loader |
 
 The Cloth Config classes are duplicated across both loader modules on purpose and must stay
 identical. Their switches are generated from the host table. They cannot live in `common`, because loader dependencies are not on its classpath.

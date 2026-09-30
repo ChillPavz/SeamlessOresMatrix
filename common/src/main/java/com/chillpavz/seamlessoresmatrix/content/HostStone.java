@@ -110,7 +110,7 @@ public final class HostStone {
             Strength.DEEPSLATE, MapColor.STONE,
             EnumSet.of(IRON, GOLD, REDSTONE, LAPIS, DIAMOND));
 
-    // --- Mythic Upgrades: both loaders, 26.2. Its own two cave biomes, which list no emerald; not in any
+    // --- Mythic Upgrades: both loaders, 26.2 and 26.3. Its own two cave biomes, which list no emerald; not in any
     // ore replaceables tag, and zinc is placed after them, so zinc never reaches them.
     public static final HostStone MYTHICUPGRADES_AQUAMARINE_SCHIST = new HostStone("mythicupgrades", "aquamarine_schist",
             Strength.STONE, MapColor.COLOR_LIGHT_BLUE,
@@ -125,7 +125,7 @@ public final class HostStone {
             Strength.STONE, MapColor.COLOR_ORANGE,
             EnumSet.of(COAL, IRON, COPPER, GOLD, REDSTONE, LAPIS, DIAMOND));
 
-    // The nether rifts (TerraBlender region). No vanilla ore reaches it: vanilla's nether ores run a
+    // The nether rifts (its own nether biome). No vanilla ore reaches it: vanilla's nether ores run a
     // step later. It swallows Mythic Upgrades' own ruby ore, which its biome places before it.
     // Hardness 1.5 and map colour read from MythicBlocks.
     public static final HostStone MYTHICUPGRADES_SAPPHIRE_SCHIST = new HostStone("mythicupgrades", "sapphire_schist",

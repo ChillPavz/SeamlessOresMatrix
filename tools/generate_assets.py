@@ -25,10 +25,12 @@ takes a precomposited overlay per host. Every host stone is referenced by its id
 Loot
 ----
 Transformed from the ore's own tables, never written by hand: the silk-touch branch drops our block,
-everything else is the ore's. One set per era, because the format changed at 26.3:
-  src/era263  from the 26.3 client jar; silk touch is "condition": "minecraft:tool/can_silk_touch".
-  src/era261  from the 26.1.2 client jar (it spells out defaults 26.2 leaves implicit, and loads on
-              both); silk touch is a minecraft:match_tool condition.
+everything else is the ore's. One set per era, because the format changed at 26.3, each in a pack
+overlay folder that pack.mcmeta enables by data format, so one jar serves every 26.x version:
+  era263   from the 26.3 client jar; silk touch is "condition": "minecraft:tool/can_silk_touch".
+  era261   from the 26.1.2 client jar (it spells out defaults 26.2 leaves implicit, and loads on
+           both); silk touch is a minecraft:match_tool condition.
+  mc26.1, mc26.2   a table an ore mod changed between its 26.1.2 and 26.2 builds, one per version.
 A modded ore's tables come from its own mod's jar, one per era it exists in (MOD_JARS); an ore with
 no 26.3 release (zinc, Mythic Metals, ...) has none in era263.
 """
@@ -65,7 +67,7 @@ NEOFORGE_DATA = os.path.join(ROOT, "neoforge", "src", "main", "resources", "data
 # era261 serves 26.1.x and 26.2 and reads a 26.1.2 jar where the mod has one (the format 26.2 also
 # loads); a mod that exists only at 26.2 is read from its 26.2 jar. No 263 entry: no 26.3 release.
 # A "262" entry is the mod's 26.2 jar where it also has a 26.1.2 one: a table that differs between the
-# two goes to src/mc26.1.2 and src/mc26.2 instead of era261, so each version drops what its own mod does.
+# two goes to the mc26.1 and mc26.2 overlays instead of era261, so each version drops what its own mod does.
 MOD_JARS = {
     "create": {"261": "26.1.2-create-fly-26.1.2-6.0.9-4.jar"},
     "energizedpower": {"261": "26.1.2-energizedpower-3.0.0+26.1.x-neoforge.jar",
@@ -73,7 +75,7 @@ MOD_JARS = {
                        "263": "energizedpower-3.0.1+26.3.x-neoforge.jar"},
     "mysticalagriculture": {"261": "MysticalAgriculture-26.1.2-9.0.9.jar"},
     "mythicmetals": {"261": "26.1.2-mythicmetals-0.26.0+26.1.2.jar"},
-    "mythicupgrades": {"261": "26.2-mythicupgrades-fabric-26.2-5.1.0.jar"},
+    "mythicupgrades": {"261": "mythicupgrades-fabric-26.2-5.1.1.jar", "263": "mythicupgrades-fabric-26.3-5.1.1.jar"},
     "occultism": {"261": "occultism-26.1.2-neoforge-1.251.0.jar", "262": "occultism-26.2-neoforge-1.253.1.jar",
                   "263": "occultism-26.3-neoforge-1.256.0.jar"},
     "powah": {"261": "26.1.2-Powah-7.0.4-alpha.jar"},
@@ -137,7 +139,7 @@ ORE_MODS = {
 }
 # Where each of those mods exists at 26.x, measured with references/tools/som-grid/availability.py.
 MOD_BANDS = {"blockus": "Fabric, 26.1.x to 26.3", "create": "Create Fly, Fabric, 26.1.2 and 26.2",
-             "forbidden_arcanus": "NeoForge, 26.1.2", "mythicupgrades": "Fabric and NeoForge, 26.2",
+             "forbidden_arcanus": "NeoForge, 26.1.2", "mythicupgrades": "Fabric and NeoForge, 26.2 and 26.3",
              "promenade": "Fabric, 26.1.x and 26.2",
              "wilderwild": "Fabric 26.1.x to 26.3, NeoForge 26.2 and 26.3"}
 
@@ -383,9 +385,10 @@ def main():
 
     assets = os.path.join(COMMON, "assets", MOD_ID)
     data = os.path.join(COMMON, "data")
-    era_data = {era: os.path.join(ROOT, "common", "src", f"era{era}", "resources", "data") for era in ERAS}
+    # Pack overlay folders, named in pack.mcmeta with the data formats each serves.
+    era_data = {era: os.path.join(COMMON, f"era{era}", "data") for era in ERAS}
     global MC_DATA
-    MC_DATA = {mc: os.path.join(ROOT, "common", "src", f"mc{mc}", "resources", "data") for mc in ("26.1.2", "26.2")}
+    MC_DATA = {"26.1.2": os.path.join(COMMON, "mc26.1", "data"), "26.2": os.path.join(COMMON, "mc26.2", "data")}
     split = []
     # Generated folders are rebuilt from scratch, so a host or ore taken out of the table leaves no file.
     for sub in ("blockstates", "models", "items", "textures"):

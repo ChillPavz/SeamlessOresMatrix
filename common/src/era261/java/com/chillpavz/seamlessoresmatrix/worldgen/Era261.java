@@ -19,7 +19,6 @@ import net.minecraft.world.level.levelgen.structure.templatesystem.TagMatchTest;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
@@ -31,10 +30,12 @@ import java.util.concurrent.atomic.AtomicBoolean;
  * <p>These versions have no any-of or all-of rule test, so the rules become plain block matches: a
  * swallow rule is one target per form of the ore (first match wins, so the result is the same), and a
  * receive rule is a block match on the stone, added only where the original target accepts that stone.
+ *
+ * <p>Loaded by name from {@link OreSites}, and only on these versions.
  */
-final class OreSites {
+final class Era261 implements OreSites.Era {
 
-    private OreSites() {}
+    Era261() {}
 
     /** Seeded, and only handed to rule tests that never read it; see {@link #receives}. */
     private static final RandomSource UNUSED = RandomSource.create(0L);
@@ -42,7 +43,8 @@ final class OreSites {
     private static final AtomicBoolean LAYERED_FAILED = new AtomicBoolean();
 
     /** Every ore site, freshly read: the other injector may have rebound some since the last call. */
-    static List<OreSite> find(RegistryAccess registries) {
+    @Override
+    public List<OreSite> find(RegistryAccess registries) {
         final Registry<ConfiguredFeature<?, ?>> features = registries.lookupOrThrow(Registries.CONFIGURED_FEATURE);
         final List<OreSite> sites = new ArrayList<>();
         // Collected first: we rebind while iterating.
@@ -70,19 +72,11 @@ final class OreSites {
      * would have matched that stone anyway. So it is asked, once, here: for the rule tests whose answer
      * depends on the block alone. A random test (a chance to match) is never evaluated, and never added.
      */
-    static boolean receives(RuleTest original, Block stone) {
+    @Override
+    public boolean receives(RuleTest original, Block stone) {
         final boolean blockOnly = original instanceof TagMatchTest || original instanceof BlockMatchTest
                 || original instanceof BlockStateMatchTest || original instanceof AlwaysTrueTest;
         return blockOnly && original.test(stone.defaultBlockState(), UNUSED);
-    }
-
-    static boolean placesAny(List<OreSite.Target> targets, Map<Block, ?> blocks) {
-        for (OreSite.Target target : targets) {
-            if (blocks.containsKey(target.state().getBlock())) {
-                return true;
-            }
-        }
-        return false;
     }
 
     /** Our rules as this era's targets, in order. */

@@ -16,23 +16,25 @@ import net.minecraft.world.level.levelgen.structure.templatesystem.RuleTest;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 26.3's ore sites. From 26.3 an ore feature carries its own targets: there is no ConfiguredFeature,
  * and the feature itself is what gets rebuilt and rebound in {@code Registries.FEATURE}.
+ *
+ * <p>Loaded by name from {@link OreSites}, and only on 26.3.
  */
-final class OreSites {
+final class Era263 implements OreSites.Era {
 
-    private OreSites() {}
+    Era263() {}
 
     /** Mod subclasses already reported, so each is logged once per session rather than per world. */
     private static final Set<String> REPORTED = ConcurrentHashMap.newKeySet();
 
     /** Every ore feature, freshly read: the other injector may have rebound some since the last call. */
-    static List<OreSite> find(RegistryAccess registries) {
+    @Override
+    public List<OreSite> find(RegistryAccess registries) {
         final Registry<Feature> features = registries.lookupOrThrow(Registries.FEATURE);
         final List<OreSite> sites = new ArrayList<>();
         // Collected first: we rebind while iterating.
@@ -45,17 +47,9 @@ final class OreSites {
     }
 
     /** 26.3 can say "the original target AND this stone" directly, so every pair is worth adding. */
-    static boolean receives(RuleTest original, Block stone) {
+    @Override
+    public boolean receives(RuleTest original, Block stone) {
         return true;
-    }
-
-    static boolean placesAny(List<OreSite.Target> targets, Map<Block, ?> blocks) {
-        for (OreSite.Target target : targets) {
-            if (blocks.containsKey(target.state().getBlock())) {
-                return true;
-            }
-        }
-        return false;
     }
 
     private record FeatureSite(Holder.Reference<Feature> holder, AbstractOreFeature ore) implements OreSite {

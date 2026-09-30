@@ -105,8 +105,8 @@ final class LayeredOre {
         @Override
         public void prepend(List<Rule> rules) {
             try {
-                final Object config = rebuilt(holder.value().config(), pattern, layer, list, OreSites.targetsOf(rules));
-                OreSites.rebind(holder, (FeatureConfiguration) config);
+                final Object config = rebuilt(holder.value().config(), pattern, layer, list, Era261.targetsOf(rules));
+                Era261.rebind(holder, (FeatureConfiguration) config);
             } catch (ReflectiveOperationException e) {
                 throw new IllegalStateException("could not rebuild " + name(), e);
             }

@@ -1110,9 +1110,10 @@
    },
    "aquamarine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 3.21
+    "rate": 2.14
    },
    "carmot": {
     "where": [
@@ -1122,9 +1123,10 @@
    },
    "citrine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 3.21
+    "rate": 2.14
    },
    "galena": {
     "where": [
@@ -1156,9 +1158,10 @@
    },
    "necoium": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 69.97
+    "rate": 68.86
    },
    "orichalcum": {
     "where": [
@@ -1168,9 +1171,10 @@
    },
    "peridot": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 3.21
+    "rate": 2.14
    },
    "prometheum": {
     "where": [
@@ -1218,9 +1222,10 @@
    },
    "topaz": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 3.21
+    "rate": 2.14
    },
    "unobtainium": {
     "where": [
@@ -1232,9 +1237,10 @@
   "blockus:limestone": {
    "aquamarine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "aquarium": {
     "where": [
@@ -1256,9 +1262,10 @@
    },
    "citrine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "energized_tin": {
     "where": [
@@ -1310,9 +1317,10 @@
    },
    "necoium": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 3.44
+    "rate": 3.39
    },
    "orichalcum": {
     "where": [
@@ -1328,9 +1336,10 @@
    },
    "peridot": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "platinum": {
     "where": [
@@ -1432,9 +1441,10 @@
    },
    "topaz": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "unobtainium": {
     "where": [
@@ -1446,9 +1456,10 @@
   "blockus:marble": {
    "aquamarine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "aquarium": {
     "where": [
@@ -1470,9 +1481,10 @@
    },
    "citrine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "energized_tin": {
     "where": [
@@ -1524,9 +1536,10 @@
    },
    "necoium": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 3.44
+    "rate": 3.39
    },
    "orichalcum": {
     "where": [
@@ -1542,9 +1555,10 @@
    },
    "peridot": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "platinum": {
     "where": [
@@ -1640,9 +1654,10 @@
    },
    "topaz": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 1.66
+    "rate": 1.11
    },
    "unobtainium": {
     "where": [
@@ -1660,9 +1675,10 @@
    },
    "aquamarine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 2.94
+    "rate": 1.96
    },
    "carmot": {
     "where": [
@@ -1672,9 +1688,10 @@
    },
    "citrine": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 2.94
+    "rate": 1.96
    },
    "galena": {
     "where": [
@@ -1706,9 +1723,10 @@
    },
    "necoium": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 25.13
+    "rate": 23.95
    },
    "orichalcum": {
     "where": [
@@ -1718,9 +1736,10 @@
    },
    "peridot": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 2.94
+    "rate": 1.96
    },
    "prometheum": {
     "where": [
@@ -1768,9 +1787,10 @@
    },
    "topaz": {
     "where": [
-     "26.2 fabric"
+     "26.2 fabric",
+     "26.3 fabric"
     ],
-    "rate": 2.94
+    "rate": 1.96
    },
    "unobtainium": {
     "where": [
@@ -1790,7 +1810,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "aquarium": {
     "where": [
@@ -1814,7 +1834,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "energized_tin": {
     "where": [
@@ -1865,7 +1885,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 12.4
+    "rate": 12.2
    },
    "orichalcum": {
     "where": [
@@ -1883,7 +1903,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "platinum": {
     "where": [
@@ -1974,7 +1994,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "unobtainium": {
     "where": [
@@ -1994,7 +2014,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "aquarium": {
     "where": [
@@ -2018,7 +2038,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "energized_tin": {
     "where": [
@@ -2069,7 +2089,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 12.4
+    "rate": 12.2
    },
    "orichalcum": {
     "where": [
@@ -2087,7 +2107,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "platinum": {
     "where": [
@@ -2178,7 +2198,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.24
+    "rate": 0.83
    },
    "unobtainium": {
     "where": [
@@ -2198,7 +2218,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.65
+    "rate": 1.1
    },
    "aquarium": {
     "where": [
@@ -2222,7 +2242,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.65
+    "rate": 1.1
    },
    "energized_tin": {
     "where": [
@@ -2273,7 +2293,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 16.47
+    "rate": 16.21
    },
    "orichalcum": {
     "where": [
@@ -2291,7 +2311,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.65
+    "rate": 1.1
    },
    "platinum": {
     "where": [
@@ -2382,7 +2402,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.65
+    "rate": 1.1
    },
    "unobtainium": {
     "where": [
@@ -2402,7 +2422,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.08
+    "rate": 0.72
    },
    "aquarium": {
     "where": [
@@ -2426,7 +2446,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.08
+    "rate": 0.72
    },
    "energized_tin": {
     "where": [
@@ -2477,7 +2497,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 10.75
+    "rate": 10.58
    },
    "orichalcum": {
     "where": [
@@ -2495,7 +2515,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.08
+    "rate": 0.72
    },
    "platinum": {
     "where": [
@@ -2586,7 +2606,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.08
+    "rate": 0.72
    },
    "unobtainium": {
     "where": [
@@ -2665,7 +2685,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.04
+    "rate": 0.69
    },
    "aquarium": {
     "where": [
@@ -2696,7 +2716,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.04
+    "rate": 0.69
    },
    "energized_tin": {
     "where": [
@@ -2753,7 +2773,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 10.4
+    "rate": 10.23
    },
    "nether_banglum": {
     "where": [
@@ -2783,7 +2803,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.04
+    "rate": 0.69
    },
    "platinum": {
     "where": [
@@ -2906,7 +2926,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.04
+    "rate": 0.69
    },
    "unobtainium": {
     "where": [
@@ -2926,7 +2946,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.17
+    "rate": 0.78
    },
    "aquarium": {
     "where": [
@@ -2950,7 +2970,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.17
+    "rate": 0.78
    },
    "energized_tin": {
     "where": [
@@ -3001,7 +3021,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 11.72
+    "rate": 11.54
    },
    "orichalcum": {
     "where": [
@@ -3019,7 +3039,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.17
+    "rate": 0.78
    },
    "platinum": {
     "where": [
@@ -3110,7 +3130,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.17
+    "rate": 0.78
    },
    "unobtainium": {
     "where": [
@@ -3246,7 +3266,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.73
+    "rate": 0.48
    },
    "aquarium": {
     "where": [
@@ -3270,7 +3290,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.73
+    "rate": 0.48
    },
    "energized_tin": {
     "where": [
@@ -3321,7 +3341,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 7.26
+    "rate": 7.15
    },
    "orichalcum": {
     "where": [
@@ -3339,7 +3359,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.73
+    "rate": 0.48
    },
    "platinum": {
     "where": [
@@ -3430,7 +3450,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.73
+    "rate": 0.48
    },
    "unobtainium": {
     "where": [
@@ -3450,7 +3470,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.46
+    "rate": 0.31
    },
    "aquarium": {
     "where": [
@@ -3474,7 +3494,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.46
+    "rate": 0.31
    },
    "energized_tin": {
     "where": [
@@ -3525,7 +3545,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 4.61
+    "rate": 4.53
    },
    "orichalcum": {
     "where": [
@@ -3543,7 +3563,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.46
+    "rate": 0.31
    },
    "platinum": {
     "where": [
@@ -3634,7 +3654,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.46
+    "rate": 0.31
    },
    "unobtainium": {
     "where": [
@@ -3654,7 +3674,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.38
+    "rate": 0.25
    },
    "aquarium": {
     "where": [
@@ -3685,7 +3705,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.38
+    "rate": 0.25
    },
    "energized_tin": {
     "where": [
@@ -3742,7 +3762,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 3.77
+    "rate": 3.71
    },
    "nether_banglum": {
     "where": [
@@ -3772,7 +3792,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.38
+    "rate": 0.25
    },
    "platinum": {
     "where": [
@@ -3895,7 +3915,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 0.38
+    "rate": 0.25
    },
    "unobtainium": {
     "where": [
@@ -3908,41 +3928,51 @@
    "necoium": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
-    "rate": 57.12
+    "rate": 46.32
    }
   },
   "mythicupgrades:citrine_schist": {
    "necoium": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
-    "rate": 57.12
+    "rate": 46.32
    }
   },
   "mythicupgrades:peridot_schist": {
    "aquamarine": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
-    "rate": 48.13
+    "rate": 32.71
    },
    "necoium": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
-    "rate": 57.12
+    "rate": 46.32
    }
   },
   "mythicupgrades:sapphire_schist": {
    "ruby": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
     "rate": 105.52
    }
@@ -3951,16 +3981,20 @@
    "citrine": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
-    "rate": 48.13
+    "rate": 32.71
    },
    "necoium": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
-    "rate": 57.12
+    "rate": 46.32
    }
   },
   "promenade:asphalt": {
@@ -3968,7 +4002,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "aquarium": {
     "where": [
@@ -3992,7 +4026,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "energized_tin": {
     "where": [
@@ -4043,7 +4077,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 2.72
+    "rate": 2.68
    },
    "orichalcum": {
     "where": [
@@ -4061,7 +4095,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "platinum": {
     "where": [
@@ -4158,7 +4192,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "unobtainium": {
     "where": [
@@ -4172,7 +4206,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "aquarium": {
     "where": [
@@ -4196,7 +4230,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "energized_tin": {
     "where": [
@@ -4247,7 +4281,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 2.72
+    "rate": 2.68
    },
    "orichalcum": {
     "where": [
@@ -4265,7 +4299,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "platinum": {
     "where": [
@@ -4362,7 +4396,7 @@
     "where": [
      "26.2 fabric"
     ],
-    "rate": 1.33
+    "rate": 0.89
    },
    "unobtainium": {
     "where": [
@@ -4449,7 +4483,9 @@
    "necoium": {
     "where": [
      "26.2 fabric",
-     "26.2 neoforge"
+     "26.2 neoforge",
+     "26.3 fabric",
+     "26.3 neoforge"
     ],
     "rate": 2.85
    },
