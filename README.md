@@ -26,7 +26,7 @@ together, and nothing is covered twice.
 - Mining, drops, Fortune, Silk Touch and experience match the ore it replaces: the vanilla ore, or
   the other mod's own ore, read from that mod.
 - Every overlay is hand drawn and shared with Seamless Ores. The stone itself is drawn by the mod
-  that adds it, so a resource pack that retextures that stone restyles these ores too.
+  that adds it, so a resource pack that replaces that stone's texture restyles it here too.
 - A variant only exists when its stone's mod is installed, and for another mod's ore that mod as
   well. With no supported stone mod, Matrix does nothing at all.
 - Ores from Create, Energized Power, Mystical Agriculture, Mythic Metals, Mythic Upgrades,
